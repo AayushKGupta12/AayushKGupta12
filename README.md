@@ -1,4 +1,4 @@
-# Hi, I'm Aayush K. Gupta 👋
+# Hi, I'm Aayush Kumar Gupta 👋
 
 I'm a passionate second-year B.Tech student specializing in Information Technology at Kalinga Institute of Industrial Technology, Bhubaneswar. I’m driven by my interest in **data science**, **machine learning**, and **software development**.
 
