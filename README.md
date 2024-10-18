@@ -13,6 +13,11 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
 - **Data Science**: Data analysis and visualization with Pandas, Matplotlib
 - **Libraries & Tools**: OpenCV, NLTK, UiPath, Git
 - **Ongoing Projects**: Food Vision, Emotion Detector, AI-powered Music Recommendation System
+- **Expertise in**
+ <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,sklearn,html,css,discord,bots,figma,github,js,linux,stackoverflow,visualstudio,vscode,wordpress,mysql" />
+  </a>
+</p>
 
 ### 🌟 Soft Skills:
 - **Problem-Solving**: Strong analytical and logical thinking applied in real-world projects.
