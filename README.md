@@ -25,7 +25,7 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
 
 ### 🌟 Soft Skills:
 - **Problem-Solving**: Strong analytical and logical thinking applied in real-world projects.
-- **Teamwork**: Active contributor to the UiPath Student Community and collaborative environments.
+- **Teamwork**: Active contributor to the **UiPath Student Community** as ML, RPA & AI and in **IOT Lab KIIT Campus 15** as ML Contributer.
 - **Adaptability**: Quickly learning and implementing new technologies.
 - **Communication**: Clear and effective communication of complex technical concepts.
 
