@@ -16,7 +16,8 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
 - **Expertise in**
  <p align="center">
     <img src="https://skillicons.dev/icons?i=java,py,c,cpp,sklearn,html,css,discord,bots" />
-    <img src="https://skillicons.dev/icons?i=figma,github,js,linux,stackoverflow,visualstudio,vscode,wordpress,mysql" />
+    <img src="https://skillicons.dev/icons?i=css,discord,bots,figma,github,js"/>
+    <img src="https://skillicons.dev/icons?i=,linux,stackoverflow,visualstudio,vscode,wordpress,mysql" />
      
   </a>
 </p>
