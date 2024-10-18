@@ -14,10 +14,12 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
 - **Libraries & Tools**: OpenCV, NLTK, UiPath, Git
 - **Ongoing Projects**: Food Vision, Emotion Detector, AI-powered Music Recommendation System
 - **Expertise in**
- <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,sklearn,html,css,discord,bots" />
-    <img src="https://skillicons.dev/icons?i=css,discord,bots,figma,github,js"/>
-    <img src="https://skillicons.dev/icons?i=,linux,stackoverflow,visualstudio,vscode,wordpress,mysql" />
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,sklearn,html,css,discord,bots" /></p>
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=css,discord,bots,figma,github,js"/></p>
+    <p align="center">
+    <img src="https://skillicons.dev/icons?i=,linux,stackoverflow,visualstudio,vscode,wordpress,mysql" /></p>
      
   </a>
 </p>
