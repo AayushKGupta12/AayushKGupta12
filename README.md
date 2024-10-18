@@ -1,7 +1,11 @@
 # Hi, I'm Aayush Kumar Gupta 👋
 
 I'm a passionate second-year B.Tech student specializing in Information Technology at Kalinga Institute of Industrial Technology, Bhubaneswar. I’m driven by my interest in **data science**, **machine learning**, and **software development**.
-
+<p align="center">
+    <a href="https://aayushguptaresume.my.canva.site/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress Logo" />
+    </a>
+</p>
 
 ### 🚀 Technical Skills:
 - **Languages**: Java, Python, C++
