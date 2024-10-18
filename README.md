@@ -5,7 +5,6 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
     <a href="https://aayushguptaresume.my.canva.site/" target="_blank">
         <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress Logo" />
     </a>
-    <h3><a href="https://aayushguptaresume.my.canva.site/" target="_blank">Click here</a></h3>
 </p>
 
 ### 🚀 Technical Skills: 
