@@ -20,7 +20,6 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
     <img src="https://skillicons.dev/icons?i=css,discord,bots,figma,github,js"/></p>
     <p align="center">
     <img src="https://skillicons.dev/icons?i=,linux,stackoverflow,visualstudio,vscode,wordpress,mysql" /></p>
-     
   </a>
 </p>
 
@@ -31,5 +30,14 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
 - **Communication**: Clear and effective communication of complex technical concepts.
 
 ### 📫 Let’s connect!
-- [LinkedIn](https://www.linkedin.com/in/aayush-kumar-gupta-2b7952219)
-- [Email](mailto:aayushguptakgschool@gmail.com)
+<p align="left">
+    <a href="https://www.linkedin.com/in/aayush-kumar-gupta-2b7952219/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn Logo" />
+    </a>
+</p>
+
+<p align="left">
+    <a href="https://www.instagram.com/_aayush_gupta12/profilecard/?igsh=d2RucWM4Nnd1Z3h3" target="_blank"> 
+        <img src="https://skillicons.dev/icons?i=instagram" alt="instagram Logo" />
+    </a>
+</p>
