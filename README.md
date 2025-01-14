@@ -8,11 +8,11 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
 </p>
 
 ### 🚀 Technical Skills:
-- **Languages**: Java, Python, C++
-- **Machine Learning**: Scikit-learn, NumPy, Pandas, K-means clustering
-- **Data Science**: Data analysis and visualization with Pandas, Matplotlib
-- **Libraries & Tools**: OpenCV, NLTK, UiPath, Git
-- **Ongoing Projects**: Food Vision CV, Emotion Detector Using NLTK & CV
+- **Languages**: Java, Python, C/C++
+- **Machine Learning**: Scikit-learn, NumPy, Pandas
+- **Data Science**: Data analysis and visualization with Pandas, Matplotlib, Probability & Statistics, SQL Oracle
+- **Libraries & Tools**: OpenCV, NLTK, Git,
+- **Areas_Of_Interest**: NLP & Bots 
 - **Expertise in**
   <p align="center">
     <img src="https://skillicons.dev/icons?i=java,py,c,cpp,sklearn,html,css,discord,bots" /></p>
