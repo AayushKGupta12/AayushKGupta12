@@ -7,20 +7,45 @@ I'm a passionate second-year B.Tech student specializing in Information Technolo
     </a>
 </p>
 
+```cpp
+#include <eat>
+#include <sleep>
+#include <code>
+#include <repeat>
+
+class Aayush_Gupta {
+public:
+    Aayush() {
+        name = "Aayush K. Gupta";
+        pronouns = "He/Him";
+        dateOfBirth = "12 March 2005";
+        languagesKnown = {"English", "Hindi"};
+        programmingLanguages = {"Python", "JavaScript" ,"C++", "Java"};
+        hobbies = {"Trveling", "Equities & Market"};
+    }
+};
+```
+
+
 ### 🚀 Technical Skills:
-- **Languages**: Java, Python, C/C++, SQL, Shell Script
-- **Machine Learning**: Scikit-learn, TensorFlow, Deeplearnig, Artificial Intelligence
+- **Languages**: Java, Python, C/C++, SQL, Shell Script, Java, Javascript
+- **Machine Learning**: Scikit-learn, TensorFlow, Deeplearnig, Artificial Intelligence, LLMs
 - **Data Science**: Power BI, Advance Python, SQL, PL SQL, Probability Statistics, Pandas, Numpy, Visualization, MS Excel
 - **Libraries & Tools**: LLMs, NLTK, Supervised Learning, APIs, Version Control
+
+🖥️ [MobaXterm](https://mobaxterm.mobatek.net/)  🔧 [Postman](https://www.postman.com/)  💻 [Visual Studio Code](https://code.visualstudio.com/) 🐍 [PyCharm](https://www.jetbrains.com/pycharm/) 🌐 [Vercel](https://vercel.com/)
+
 - **Expertise in**
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,py,c,cpp,sklearn,html,css,discord,bots" /></p>
-    <p align="center">
-    <img src="https://skillicons.dev/icons?i=css,discord,bots,figma,github,js"/></p>
-    <p align="center">
-    <img src="https://skillicons.dev/icons?i=,linux,stackoverflow,visualstudio,vscode,wordpress,mysql" /></p>
-  </a>
+  <img src="https://skillicons.dev/icons?i=java,py,c,cpp,sklearn,html,css,react,js,nodejs" />
 </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github,figma,postman" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,stackoverflow,visualstudio,vscode,wordpress,mysql" />
+</p>
+
 
 ### 🌟 Soft Skills:
 - **Problem-Solving**: Strong analytical and logical thinking applied in real-world projects.
