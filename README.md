@@ -21,7 +21,7 @@ public:
         dateOfBirth = "12 March 2005";
         languagesKnown = {"English", "Hindi"};
         programmingLanguages = {"Python", "JavaScript" ,"C++", "Java"};
-        hobbies = {"Trveling", "Equities & Market"};
+        hobbies = {"Traveling", "Equities & Market"};
     }
 };
 ```
@@ -32,8 +32,6 @@ public:
 - **Machine Learning**: Scikit-learn, TensorFlow, Deeplearnig, Artificial Intelligence, LLMs
 - **Data Science**: Power BI, Advance Python, SQL, PL SQL, Probability Statistics, Pandas, Numpy, Visualization, MS Excel
 - **Libraries & Tools**: LLMs, NLTK, Supervised Learning, APIs, Version Control
-
-🖥️ [MobaXterm](https://mobaxterm.mobatek.net/)  🔧 [Postman](https://www.postman.com/)  💻 [Visual Studio Code](https://code.visualstudio.com/) 🐍 [PyCharm](https://www.jetbrains.com/pycharm/) 🌐 [Vercel](https://vercel.com/)
 
 - **Expertise in**
   <p align="center">
