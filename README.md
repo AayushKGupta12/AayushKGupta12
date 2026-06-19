@@ -129,7 +129,7 @@ public:
 
 ## 📚 Education & Coursework
 
-**Kalinga Institute of Industrial Technology (KIIT)** | B.Tech — Information Technology | **CGPA: 8.76/10**
+**Kalinga Institute of Industrial Technology (KIIT)** | B.Tech — Information Technology | **CGPA: 8.60/10**
 
 `DSA` `Operating Systems` `OOP` `DBMS` `Software Engineering` `System Design` `Probability & Statistics` `Discrete Mathematics` `SQL` `SDLC`
 
