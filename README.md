@@ -30,7 +30,7 @@ public:
         pronouns        = "He / Him";
         dateOfBirth     = "12 March 2005";
         college         = "KIIT, Bhubaneswar — B.Tech IT (2023–2027)";
-        cgpa            = 8.52;
+        cgpa            = 8.60;
         languages       = { "English", "Hindi" };
         currentFocus    = { "Scalable Backend", "Gen AI", "System Design" };
         hobbies         = { "Traveling", "Equities & Markets" };
@@ -44,7 +44,7 @@ public:
 
 - 🔭 Building **[Tauzand Career OS](https://tauzand.com)** — 78K+ active users, 38K+ events in Q1 2026
 - 💼 Ex **Software Engineer + Gen AI @ Prishal Technolabs** — reduced ops costs by 70%, 99.9% uptime
-- 🤝 **Backend Lead** @ UiPath Student Community (USC) KIIT
+- 🤝 **Core ML** @ UiPath Student Community (USC) KIIT
 - 🌱 **Mentor @ GSSoC 2025** — System Design, ML & Gen AI
 - 🔬 **GSoC Participant** — Deep Learning Inference for mass regression @ ML4Sci.org
 - ⚡ Proficient in **High & Low Level System Design**, Distributed Systems, Microservices
