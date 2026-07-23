@@ -28,8 +28,7 @@ public:
     Aayush_Gupta() {
         name            = "Aayush Kumar Gupta";
         pronouns        = "He / Him";
-        dateOfBirth     = "12 March 2005";
-        college         = "KIIT, Bhubaneswar — B.Tech IT (2023–2027)";
+        university      = "KIIT, Bhubaneswar";
         cgpa            = 8.60;
         languages       = { "English", "Hindi" };
         currentFocus    = { "Scalable Backend", "Gen AI", "System Design" };
@@ -43,8 +42,6 @@ public:
 ## 🧠 About Me
 
 - 🔭 Building **[Tauzand Career OS](https://tauzand.com)** — 78K+ active users, 38K+ events in Q1 2026
-- 💼 Ex **Software Engineer + Gen AI @ Prishal Technolabs** — reduced ops costs by 70%, 99.9% uptime
-- 🤝 **Core ML** @ UiPath Student Community (USC) KIIT
 - 🌱 **Mentor @ GSSoC 2025** — System Design, ML & Gen AI
 - 🔬 **GSoC Participant** — Deep Learning Inference for mass regression @ ML4Sci.org
 - ⚡ Proficient in **High & Low Level System Design**, Distributed Systems, Microservices
@@ -82,13 +79,6 @@ public:
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img src="https://img.shields.io/badge/Asterisk-FF6600?style=for-the-badge" />
 </p>
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AayushGupta&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
-</div>
 
 ---
 
@@ -99,8 +89,8 @@ public:
 | Project | Description | Stack | Live |
 |---|---|---|---|
 | 🎯 **Tauzand Career OS** | SaaS AI platform • 78K+ active users • RAG + Redis + Microservices | Next.js, PostgreSQL, Redis, Clerk, Supabase | [Demo](https://tauzand.com) |
-| 🤖 **AI Customer Executive** | Real-time conversational AI with low-latency audio streaming (SOLID arch) | Python, Microservices, STT/TTS, REST APIs | [Demo](#) |
-| 🛡️ **Content Risk Detection** | Ensemble ML pipeline for harmful content classification (kids <12) | Python, Scikit-learn, Flask, NLP | [Demo](#) |
+| 🤖 **AI Customer Executive** | Real-time conversational AI with low-latency audio streaming (SOLID arch) | Python, Microservices, STT/TTS, REST APIs |
+| 🛡️ **Content Risk Detection** | Ensemble ML pipeline for harmful content classification (kids <12) | Python, Scikit-learn, Flask, NLP |
 
 </div>
 ---
@@ -110,8 +100,7 @@ public:
 ```
 🧩 Problem-Solving      ████████████████████  Strong
 🤝 Team Collaboration   ████████████████████  Active USC Backend Lead
-🔄 Adaptability         ███████████████████░  Fast Learner
-🗣️ Communication        ████████████████████  Mentor @ GSSoC 2025
+🗣️ Communication        ████████████████████  Mentor @ GSSoC 2025 & GSOC' 25
 📐 System Design        ████████████████████  HLD + LLD Proficient
 ```
 
@@ -119,20 +108,10 @@ public:
 
 ## 🏅 Achievements & Leadership
 
-- 🥇 **UiPath Student Community KIIT** — Backend Lead & Associate Coordinator *(Jun 2025 – Present)*
 - 🌍 **GSSoC 2025 Mentor** — System Design, Traditional ML & Generative AI
 - 🔬 **Google Summer of Code (GSoC)** — Deep Learning Inference, ML4Sci.org
 - 📈 Built platform reaching **78K active users** in a single quarter (Q1 2026)
-- ⚡ Reduced telephony operational costs by **70%** at Prishal Technolabs
-
----
-
-## 📚 Education & Coursework
-
-**Kalinga Institute of Industrial Technology (KIIT)** | B.Tech — Information Technology | **CGPA: 8.60/10**
-
-`DSA` `Operating Systems` `OOP` `DBMS` `Software Engineering` `System Design` `Probability & Statistics` `Discrete Mathematics` `SQL` `SDLC`
-
+- 
 ---
 
 <div align="center">
