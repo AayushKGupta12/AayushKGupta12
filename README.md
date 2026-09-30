@@ -1,137 +1,50 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Aayush%20Kumar%20Gupta&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Gen%20AI%20%7C%20Backend%20Systems&descAlignY=58&descColor=a78bfa" />
-</div>
+### Hi, I'm Aayush.
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/aayush-kumar-gupta-2b7952219/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:aayushgupta120305@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://aayushguptaresume.my.canva.site/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=AayushGupta&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-</div>
+I build backend systems that talk to LLMs, and then spend most of my time making sure they don't fall over.
 
-<br/>
+Based in Bhubaneswar, studying IT at KIIT, and currently working on payment integrations at Antbox while running a small AI product on the side.
 
-```cpp
-#include <eat>
-#include <sleep>
-#include <code>
-#include <repeat>
-
-class Aayush_Gupta {
-public:
-    Aayush_Gupta() {
-        name            = "Aayush Kumar Gupta";
-        pronouns        = "He / Him";
-        university      = "KIIT, Bhubaneswar";
-        cgpa            = 8.60;
-        languages       = { "English", "Hindi" };
-        currentFocus    = { "Scalable Backend", "Gen AI", "System Design" };
-        hobbies         = { "Traveling", "Equities & Markets" };
-    }
-};
+```python
+aayush = {
+    "does":      ["backend", "gen ai", "system design"],
+    "ships":     "small things often with a great impact",
+    "avoids":    "adding a microservice when a function would do",
+    "reach me":  "aayushgupta120305@gmail.com",
+}
 ```
 
 ---
 
-## 🧠 About Me
+### Things I've actually shipped
 
-- 🔭 Building **[Tauzand Career OS](https://tauzand.com)** — 78K+ active users, 38K+ events in Q1 2026
-- 🌱 **Mentor @ GSSoC 2025** — System Design, ML & Gen AI
-- 🔬 **GSoC Participant** — Deep Learning Inference for mass regression @ ML4Sci.org
-- ⚡ Proficient in **High & Low Level System Design**, Distributed Systems, Microservices
+**[Tauzand](https://www.tauzand.in)**
+An AI SaaS product I started in college and still run. About 4.6K people use it and it has handled 1.5 lakh+ events so far. Modular monolith, PostgreSQL, Redis, RAG so the answers stay grounded, and a Chrome extension on top. I also manage a team of 20 interns on it, which taught me more about communication than any course did.
 
----
+**A voice agent that picks up the phone**
+At Prishal.ai I worked on a call automation pipeline (speech to text, LLM, text to speech) used by 12K+ US clients. Rewired the event flow and cut telephony cost by about 30%. Ran on Asterisk. Learned that latency is a feature.
 
-## 🛠️ Tech Stack
+**A payments sandbox nobody should break**
+At Antbox I'm prototyping admin flows against Fintech Giants & their's APIs: counterparties, draft payments, approvals, reconciliation, and stopping the same payment from going out twice.
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,js,ts,sql" />
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### Backend & Databases
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,flask,fastapi,postgres,mongodb,redis,supabase,mysql" />
-</p>
-
-### AI / ML / Data
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-7c3aed?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge" />
-</p>
-
-### DevOps & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,postman,vscode,pycharm,figma" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Asterisk-FF6600?style=for-the-badge" />
-</p>
+**A content filter for kids under 12**
+An ensemble classifier that scores web pages for harmful content in real time. Scikit-learn, NLTK, Flask. Small project, but the kind of problem I like.
 
 ---
 
-## 🚀 Featured Projects
+### What I reach for
 
-<div align="center">
-
-| Project | Description | Stack | Live |
-|---|---|---|---|
-| 🎯 **Tauzand Career OS** | SaaS AI platform • 78K+ active users • RAG + Redis + Microservices | Next.js, PostgreSQL, Redis, Clerk, Supabase | [Demo](https://tauzand.com) |
-| 🤖 **AI Customer Executive** | Real-time conversational AI with low-latency audio streaming (SOLID arch) | Python, Microservices, STT/TTS, REST APIs |
-| 🛡️ **Content Risk Detection** | Ensemble ML pipeline for harmful content classification (kids <12) | Python, Scikit-learn, Flask, NLP |
-
-</div>
----
-
-## 🌟 Soft Skills
-
-```
-🧩 Problem-Solving      ████████████████████  Strong
-🤝 Team Collaboration   ████████████████████  Active USC Backend Lead
-🗣️ Communication        ████████████████████  Mentor @ GSSoC 2025 & GSOC' 25
-📐 System Design        ████████████████████  HLD + LLD Proficient
-```
+Python and Java. PostgreSQL and Redis. Flask when I need an API fast. Scikit-learn for classical ML, Mistral and Deepgram for the Gen AI and voice bits. Docker, Git, CI/CD for the boring parts that matter.
 
 ---
 
-## 🏅 Achievements & Leadership
+### Outside of code
 
-- 🌍 **GSSoC 2025 Mentor** — System Design, Traditional ML & Generative AI
-- 🔬 **Google Summer of Code (GSoC)** — Deep Learning Inference, ML4Sci.org
-- 📈 Built platform reaching **78K active users** in a single quarter (Q1 2026)
-- 
+Mentored at GSSoC 2025 on system design and ML. Core ML at UiPath Student Community, KIIT. Follow equity markets a bit too closely. Like travelling to places with bad internet.
+
 ---
 
-<div align="center">
-
-### 💬 Let's Connect & Build Something Great!
-
-<a href="https://www.linkedin.com/in/aayush-kumar-gupta-2b7952219/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;
-<a href="mailto:aayushgupta120305@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-&nbsp;
-<a href="https://www.instagram.com/_aayush_gupta12/">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush-kumar-gupta-2b7952219/">LinkedIn</a> ·
+  <a href="mailto:aayushgupta120305@gmail.com">Email</a> ·
+  <a href="https://aayushkgupta12.netlify.app/">Portfolio</a>
+</p>
